@@ -559,8 +559,8 @@
       }
     },
     "job-to-paid": {
-      "sha": "7c4df311c84b3a24f18f455793b428a08e382a23",
-      "version": "1.0.0",
+      "sha": "ce5a39d4fc7494bc3a4433b1cdd9d6542b7dedf7",
+      "version": "1.0.5",
       "components": {
         "commands": [
           {

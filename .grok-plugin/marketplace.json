@@ -494,7 +494,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/nettylabs/job-to-paid.git",
-        "sha": "7c4df311c84b3a24f18f455793b428a08e382a23"
+        "sha": "ce5a39d4fc7494bc3a4433b1cdd9d6542b7dedf7"
       },
       "homepage": "https://github.com/nettylabs/job-to-paid",
       "keywords": ["job to paid", "job-to-paid", "jobtopaid"]
